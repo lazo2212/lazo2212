@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-# Robert Lazić
-## Frontend developer
+# I'am Frontend developer from Croatia 🇭🇷
 
 Ever since I was young, I've been captivated by computers and technology. In 2022, I wrote my first line of code, and since then, I have been passionately pursuing front-end development. Although I lack professional experience as a junior front-end developer, I make up for it by dedicating myself to personal projects. These projects serve as a platform for honing my skills and preparing me for real-world challenges. I am fully committed to expanding my knowledge and constantly pushing myself to learn more in this field.
 
